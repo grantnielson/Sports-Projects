@@ -7,5 +7,7 @@ QBR is a plot comparing QBRs (per ESPN, I know there are many different QBR metr
 I felt that Jaren Hall (BYU's QB) performed better (QBR) than the team did (W/L record); looking at the results, it seems like he did. 
 He also outperformed all other QBs he faced, except one.
 
+![image](https://github.com/grantnielson/Sports-Projects/assets/100327838/844898e2-3381-4636-b267-fc536c10e786)
+
 ![image](https://github.com/grantnielson/Sports-Projects/assets/100327838/26543f3f-45a4-41bc-aac9-30f5689f938b)
 

@@ -6,3 +6,6 @@ For 'BYU STATES RECORDS', I was interested in visualizations with a US map, so I
 QBR is a plot comparing QBRs (per ESPN, I know there are many different QBR metrics out there), using data from cfbfastR. 
 I felt that Jaren Hall (BYU's QB) performed better (QBR) than the team did (W/L record); looking at the results, it seems like he did. 
 He also outperformed all other QBs he faced, except one.
+
+![image](https://github.com/grantnielson/Sports-Projects/assets/100327838/26543f3f-45a4-41bc-aac9-30f5689f938b)
+

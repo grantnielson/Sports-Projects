@@ -1,3 +1,8 @@
+### Pitch_Deception
+My project attempting to quantify "Deception" among MLB pitchers. 
+The ipynb file serves as an appendix, the docx explains everything.
+
+
 ### These are two data visualization projects I carried out to expand my skills in R, and provide interesting graphics to answer my questions and appeal to other BYU fans on Twitter.
 
 

@@ -8,7 +8,8 @@ The ipynb file serves as an appendix, the docx explains everything.
 #Sloan Slide
 This is a fielder optimization project I helped work on that won 3rd place at Sloan in 2024.
 
-![image](https://github.com/grantnielson/Sports-Projects/assets/100327838/844898e2-3381-4636-b267-fc536c10e786)
+[View PDF](https://github.com/your-username/your-repo/blob/main/Sloan Slide- Optimizing Fielder Positioning.pdf)
+
 
 ### Blog
 Basketball_viz_blog_link is a link to a blog where I analyzed 2021 March Madness results to sharpen my python visualization skills.

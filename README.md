@@ -1,7 +1,12 @@
+### Semien Hit Streak
+This is a Bayesian simulation to calculate the probability of Marcus Semien achieving a 20+ game hit streak in the 2025 season.
+
 ### Pitch_Deception
-My project attempting to quantify "Deception" among MLB pitchers. 
+My project attempts to quantify "Deception" among MLB pitchers. 
 The ipynb file serves as an appendix, the docx explains everything.
 
+### Blog
+This is a link to a blog where I analyzed 2021 March Madness results to sharpen my python visualization skills.
 
 ### These are two data visualization projects I carried out to expand my skills in R, and provide interesting graphics to answer my questions and appeal to other BYU fans on Twitter.
 

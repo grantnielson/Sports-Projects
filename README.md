@@ -5,7 +5,7 @@ This is a Bayesian simulation to calculate the probability of Marcus Semien achi
 My project attempts to quantify "Deception" among MLB pitchers. 
 The ipynb file serves as an appendix, the docx explains everything.
 
-#Sloan Slide
+### Sloan Slide
 This is a fielder optimization project I helped work on that won 3rd place at Sloan in 2024.
 
 ![Sloan Slide](./Sloan_Slide.jpg)

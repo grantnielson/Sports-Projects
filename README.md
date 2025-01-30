@@ -8,7 +8,7 @@ The ipynb file serves as an appendix, the docx explains everything.
 #Sloan Slide
 This is a fielder optimization project I helped work on that won 3rd place at Sloan in 2024.
 
-[View PDF](https://github.com/your-username/your-repo/blob/main/Sloan Slide- Optimizing Fielder Positioning.pdf)
+[View PDF](https://github.com/your-username/your-repo/blob/main/Sloan_Slide_Optimizing_Fielder_Positioning.pdf)
 
 
 ### Blog

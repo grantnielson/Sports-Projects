@@ -1,11 +1,12 @@
 ### 2026 Big Data Bowl - Finalist
 My project, along with Evan Miller, Connor Thompson, and Evan West, uses physics and a neural network to determine the optimal locations for interceptions and incompletions for NFL defenseive backs. Check out our [video and writeup](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/the-decision-point).
 
+
 ### 2025 Big Data Bowl
 We used CNNs to predict run v. pass, and which quadrants receivers would end in. We then identified the [most predictable teams and schemes](https://www.kaggle.com/code/jacobmarkmiller/anticipating-play-outcomes/notebook).
 
 ### Semien Hit Streak
-This is a Bayesian simulation to calculate the probability of Marcus Semien achieving a 20+ game hit streak in the 2025 season.
+This is a [Bayesian simulation](https://github.com/grantnielson/Sports-Projects/blob/main/Semien_Hit_Streak_Nielson_Final.pdf) to calculate the probability of Marcus Semien achieving a 20+ game hit streak in the 2025 season.
 
 ### Pitch_Deception
 My project attempts to quantify "Deception" among MLB pitchers. 

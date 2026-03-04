@@ -21,7 +21,7 @@ This is a fielder optimization project I helped work on that won 3rd place at Sl
 
 
 ### Blog
-Basketball_viz_blog_link is a link to a blog where I analyzed 2021 March Madness results to sharpen my python visualization skills.
+[Blog](https://grantnielson.github.io/my386blog/) where I analyzed 2021 March Madness results to sharpen my python visualization skills.
 
 ### These are two data visualization projects I carried out to expand my skills in R, and provide interesting graphics to answer my questions and appeal to other BYU fans on Twitter.
 

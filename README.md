@@ -11,7 +11,7 @@ We used CNNs to predict run v. pass, and which quadrants receivers would end in.
 This is a [Bayesian simulation](https://github.com/grantnielson/Sports-Projects/blob/main/Semien_Hit_Streak_Nielson_Final.pdf) to calculate the probability of Marcus Semien achieving a 20+ game hit streak in the 2025 season.
 
 ### Pitch_Deception
-My project attempts to quantify "Deception" among MLB pitchers. 
+My [project attempts](https://github.com/grantnielson/Sports-Projects/tree/main/Pitcher_Deception_Rankings) to quantify "Deception" among MLB pitchers. 
 The ipynb file serves as an appendix, the docx explains everything.
 
 ### Sloan Slide
